@@ -3,7 +3,7 @@
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,35:310000,70:8B0000,100:FF1A1A&text=KIM%20HYUN%20RUIIXYN&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=RUIIX_.VOLT%20%E2%80%A2%20BUG%20HUNTER%20%E2%80%A2%20SECURITY%20RESEARCHER&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Animated red and black profile header">
 
-<img src="https://github.com/user-attachments/assets/1a8ca47b-e01a-4e5c-babe-bda55d64b3ed" width="100%" alt="Profile banner">
+<img src="https://github.com/user-attachments/assets/9bfe1f82-7b50-4394-9b0c-bd9df824719e" width="100%" alt="Profile banner">
 
 <br>
 
